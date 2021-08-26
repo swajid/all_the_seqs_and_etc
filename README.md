@@ -93,3 +93,10 @@ original RNA seq paper
 original ChIP seq paper
 
 etc
+
+
+__other, what I'm reading/read__
+`& problems`
+
+* 8/25-28/21 Introduction to Algorithms, Ch 29, "Linear Programming"
+  * 29.2 "Formulating problems as linear programs"
