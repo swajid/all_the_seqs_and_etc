@@ -1,6 +1,5 @@
 # all_the_seqs_and_etc
 
-*testing*
 ```
 
 A Work in Progress
@@ -95,7 +94,15 @@ original ChIP seq paper
 etc
 
 
-__other, what I'm reading/read__
+## all the pipelines/workflows for bio/chem/synbio/informatics
+
+| Github | Paper | Funding | Notes |
+| ------ | ----- | ------- | ----- |
+|[`PyKale`](https://github.com/pykale/pykale)|[_PyKale: Knowledge-Aware Machine Learning from Multiple Sources in Python_](https://arxiv.org/pdf/2106.09756.pdf) | ["Developing a machine learning tool to improve prognostic and treatment response assessment on cardiac MRI data"](https://grantnav.threesixtygiving.org/grant/360G-Wellcome-215799_Z_19_Z)| _see paper subheadings_ "3.1 Green machine learning" , "6.2 Limitations and future development" |
+<!-- this isn't the "secret paper" very different but similar-ish and really great achievement, some ideas on what I'm thinking about -->
+
+
+## other, what I'm reading/read
 `& problems`
 
 * 8/25-28/21 Introduction to Algorithms, Ch 29, "Linear Programming"
