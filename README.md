@@ -50,7 +50,7 @@ Profiling
 ├── Genotyping
 ├── Gene Expression Profiling
 
-Analysis (Data Analysis / Methods)
+Interactions/Analysis (Data Analysis / Methods)
 ├── Gene Enrichment
 ├── Interactome
 │    ├── RNA-RNA
@@ -94,11 +94,13 @@ original ChIP seq paper
 etc
 
 
-## all the pipelines/workflows for bio/chem/synbio/informatics
+## all the aggregator/pipelines/workflows for bio/chem/synbio/informatics
 
-| Github | Paper | Funding | Notes |
-| ------ | ----- | ------- | ----- |
-|[`PyKale`](https://github.com/pykale/pykale)|[_PyKale: Knowledge-Aware Machine Learning from Multiple Sources in Python_](https://arxiv.org/pdf/2106.09756.pdf) | ["Developing a machine learning tool to improve prognostic and treatment response assessment on cardiac MRI data"](https://grantnav.threesixtygiving.org/grant/360G-Wellcome-215799_Z_19_Z)| _see paper subheadings_ "3.1 Green machine learning" , "6.2 Limitations and future development" |
+| Project Type | Year   | Github | _Paper_ / Article | Funding | Notes |
+| ------------ | ------ |------ | ----- | ------- | ----- |
+| Workflow | 2021 |[`PyKale`](https://github.com/pykale/pykale)|[_PyKale: Knowledge-Aware Machine Learning from Multiple Sources in Python_](https://arxiv.org/pdf/2106.09756.pdf) | ["Developing a machine learning tool to improve prognostic and treatment response assessment on cardiac MRI data"](https://grantnav.threesixtygiving.org/grant/360G-Wellcome-215799_Z_19_Z)| _see paper subheadings_ "3.1 Green machine learning" , "6.2 Limitations and future development" |
+| Aggregator | 2020 | ------ | [Seven Bridges Selected to Build Cancer Data Aggregator ...](https://www.sevenbridges.com/seven-bridges-to-build-cancer-data-aggregator-for-the-nci/) | [NCI Center for Cancer Data Harmonization (CCDH)](https://datascience.cancer.gov/data-commons/center-cancer-data-harmonization-ccdh) | ----- |
+
 <!-- this isn't the "secret paper" very different but similar-ish and really great achievement, some ideas on what I'm thinking about -->
 
 
