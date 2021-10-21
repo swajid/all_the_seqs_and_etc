@@ -113,3 +113,7 @@ etc
 9/2-9/7
 * A Review Paper: [Potential roles of N6-methyladenosine (m6A) in immune cells](https://pubmed.ncbi.nlm.nih.gov/34103054/) + other related papers <!-- Note: I've never taken anatomy and physiology or immunology, so the bigger picture is new to me -->
 
+10/20-11/5: 
+Reading/Taking Notes on: [Software Estimation: Demystifying the Black Art](https://www.goodreads.com/book/show/93891.Software_Estimation) <!-- my copy was printed in 2011 (Copyright 2006) -->
+* Tip #1 - "Distinguish between estimates, targets and commitments"
+* Tip #115 - "Attack the problem, not the people" - (said by also my dad, for so many years) <!-- my addendum: well, there are still times when the problems are soley because of a person. -->
