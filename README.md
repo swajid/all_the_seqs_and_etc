@@ -94,12 +94,15 @@ original ChIP seq paper
 etc
 
 
-## all the aggregator/pipelines/workflows for bio/chem/synbio/informatics
+## all the aggregators/pipelines/workflows for bio/chem/synbio/informatics
+### subcategories [`API`, `imagenet`, `wordnet`]
 
 | Project Type | Year   | Github | _Paper_ / Article | Funding | Notes |
 | ------------ | ------ |------ | ----- | ------- | ----- |
-| Workflow | 2021 |[`PyKale`](https://github.com/pykale/pykale)|[_PyKale: Knowledge-Aware Machine Learning from Multiple Sources in Python_](https://arxiv.org/pdf/2106.09756.pdf) | ["Developing a machine learning tool to improve prognostic and treatment response assessment on cardiac MRI data"](https://grantnav.threesixtygiving.org/grant/360G-Wellcome-215799_Z_19_Z)| _see paper subheadings_ "3.1 Green machine learning" , "6.2 Limitations and future development" |
-| Aggregator | 2020 | ------ | [Seven Bridges Selected to Build Cancer Data Aggregator ...](https://www.sevenbridges.com/seven-bridges-to-build-cancer-data-aggregator-for-the-nci/) | [NCI Center for Cancer Data Harmonization (CCDH)](https://datascience.cancer.gov/data-commons/center-cancer-data-harmonization-ccdh) | ----- |
+| Workflow | 2021 |[`PyKale`](https://github.com/pykale/pykale)|[_PyKale: Knowledge-Aware Machine Learning from Multiple Sources in Python_](https://arxiv.org/pdf/2106.09756.pdf) | ["Developing a machine learning tool to improve prognostic and treatment response assessment on cardiac MRI data"](https://grantnav.threesixtygiving.org/grant/360G-Wellcome-215799_Z_19_Z)| <details> _see paper subheadings_ "3.1 Green machine learning" , "6.2 Limitations and future development" </details> |
+| Aggregator | 2020 | | [Seven Bridges Selected to Build Cancer Data Aggregator ...](https://www.sevenbridges.com/seven-bridges-to-build-cancer-data-aggregator-for-the-nci/) | [NCI Center for Cancer Data Harmonization (CCDH)](https://datascience.cancer.gov/data-commons/center-cancer-data-harmonization-ccdh) | |
+| Aggregator, API | 20** | [`openFDA`](https://github.com/FDA/openfda)| [OpenFDA (API) Data Dictionary](https://open.fda.gov/data/datadictionary) | [FDA](https://open.fda.gov/about/) | <details> luigi, Elasticsearch [etc.](https://github.com/FDA/openfda#contents) </details> |
+| Aggregator, imagenet | 20** | | [Medical ImageNet](https://aimi.stanford.edu/research/medical-imagenet) | | |
 
 <!-- this isn't the "secret paper" very different but similar-ish and really great achievement, some ideas on what I'm thinking about -->
 
