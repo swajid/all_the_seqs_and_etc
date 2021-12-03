@@ -103,6 +103,7 @@ etc
 | Aggregator | 2020 | | [Seven Bridges Selected to Build Cancer Data Aggregator ...](https://www.sevenbridges.com/seven-bridges-to-build-cancer-data-aggregator-for-the-nci/) | [NCI Center for Cancer Data Harmonization (CCDH)](https://datascience.cancer.gov/data-commons/center-cancer-data-harmonization-ccdh) | |
 | Aggregator, API | 20** | [`openFDA`](https://github.com/FDA/openfda)| [OpenFDA (API) Data Dictionary](https://open.fda.gov/data/datadictionary) | [FDA](https://open.fda.gov/about/) | <details> luigi, Elasticsearch [etc.](https://github.com/FDA/openfda#contents) </details> |
 | Aggregator, imagenet | 20** | | [Medical ImageNet](https://aimi.stanford.edu/research/medical-imagenet) | | |
+| Cell Counting | 2021 | - | [_Deep Learning and Transfer Learning for Automatic Cell Counting in Microscope Images of Human Cancer Cell Lines_](https://www.mdpi.com/2076-3417/11/11/4912) | - | compare and contrast / benchmark type of paper |
 
 <!-- this isn't the "secret paper" very different but similar-ish and really great achievement, some ideas on what I'm thinking about -->
 
